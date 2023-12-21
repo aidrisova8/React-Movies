@@ -1,0 +1,21 @@
+.cardItem{
+    cursor: pointer;
+}
+.cardTop{
+    height: 300px;
+    img{
+        width: 100%;
+        height: 100%;
+    }
+}
+.cardBottom{
+   padding: 20px; 
+}
+.cardInfo{
+    color: rgb(41, 27, 167);
+    h4{
+        font-size: 22px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    }
+}
